@@ -3,6 +3,8 @@
 Created on Thu Oct  8 23:29:10 2020
 
 @author: mehedi.md.hasan
+
+A simple change for workshop7
 """
 from util import Util
 from iac_testing_antipatterns import IaCTestingAntipatterns
